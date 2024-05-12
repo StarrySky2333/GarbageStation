@@ -1,0 +1,3 @@
+C:/Users/XingCChenSAMA/CLionProjects/Supermarket_Product_Management_System/cmake-build-debug/CMakeFiles/Supermarket_Product_Management_System.dir
+C:/Users/XingCChenSAMA/CLionProjects/Supermarket_Product_Management_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XingCChenSAMA/CLionProjects/Supermarket_Product_Management_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
